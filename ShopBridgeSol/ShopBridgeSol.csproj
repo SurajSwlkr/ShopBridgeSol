@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <Folder Include="LogFile\" />
+    <Folder Include="Database\" />
     <Folder Include="Resource\Images\" />
   </ItemGroup>
 
